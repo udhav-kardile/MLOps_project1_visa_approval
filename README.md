@@ -6,3 +6,28 @@
 - MLOps Tool: https://www.evidentlyai.com/
 - Flowchart: https://whimsical.com/
 - MLOPs Tools: https://evidentlyai.com/
+
+
+## Git commands
+
+```bash
+git add.
+
+git commit -m "Updated"
+
+git push origin main
+```
+
+
+## How to run?
+```bash
+conda create -n myenv python=3.12 -y
+```
+
+```bash
+conda activate myenv
+```
+
+```bash
+pip install -r requirements.txt
+```
